@@ -1,3 +1,7 @@
+datasets/
+models/
+workshop_02/runs/   
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
